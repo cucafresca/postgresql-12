@@ -64,7 +64,7 @@ echo "Será baixado e instalado o Script para inicialização automática do Pos
 echo "Aperte ENTER para continuar"
 read
 
-wget https://raw.githubusercontent.com/cucafresca/iniciabanco/master/iniciabanco.sh
+wget https://raw.githubusercontent.com/cucafresca/postgresql-12/main/iniciabanco.sh
 
 wget https://raw.githubusercontent.com/cucafresca/iniciabanco/master/postgresql.service
 
