@@ -23,7 +23,7 @@ make
 make install
 make install
 
-cd /usr/local/src/postgresql-10.16/contrib
+cd /usr/local/src/postgresql-12.13/contrib
 
 make
 make
@@ -49,7 +49,7 @@ chmod -R 0700 /home/cucafresca/cuca/postgresql
 cd /etc
 
 echo "export PGDATA=/usr/local/bin" >> bash.bashrc
-echo "export PGDATA=/home/cucafresca/cuca/postgresql/10/data" >> bash.bashrc
+echo "export PGDATA=/home/cucafresca/cuca/postgresql/12/data" >> bash.bashrc
 
 echo "Agora será configurado o locales selecione a opção PT_BR ISO-8859-1 e pt_BR clique em OK "
 echo "Caso não selecionar a opção PT_BR ISO-8859-1 o banco não será instalado corretamente"
