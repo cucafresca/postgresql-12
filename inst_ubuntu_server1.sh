@@ -37,7 +37,7 @@ read
 
 adduser postgres
 
-echo "Agora vamos criar a pasta DATA e atribuir as permissões para a mesma, por padrão vamos deixar a pasta no local /home/cucafresca/cuca/postgresql/10/data"
+echo "Agora vamos criar a pasta DATA e atribuir as permissões para a mesma, por padrão vamos deixar a pasta no local /home/cucafresca/cuca/postgresql/12/data"
 echo "Aperte ENTER para continuar"
 read
 
