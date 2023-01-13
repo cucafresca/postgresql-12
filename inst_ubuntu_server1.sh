@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "INSTALAÇÃO POSTGRESQL 10.16 UBUNTU_SERVER E DEBIAN Aperte ENTER para continuar"
+echo "INSTALAÇÃO POSTGRESQL 12.13 UBUNTU_SERVER E DEBIAN Aperte ENTER para continuar"
 read #pause até que o ENTER seja pressionado
 
 wget https://ftp.postgresql.org/pub/source/v12.13/postgresql-12.13.tar.gz
